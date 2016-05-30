@@ -18,9 +18,9 @@ date: 2016-03-21
 * Nama : Jayus Suryawan Febianto
 * TTL : Indragiri Hulu, 03 Maret 1995 
 * Kelas : SIF’B 
-* Jurusan : S<a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
-* Fakultas : <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>
-* Universitas : <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a>
+* Jurusan : <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
+* Fakultas : <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
+* Universitas : <a href="htpp://uin-suska.ac.id/">uUIN SUSKA Riau</a>
 
 
 ## Greatings
