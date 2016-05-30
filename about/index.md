@@ -27,7 +27,7 @@ date: 2016-03-21
 
 Nama saya adala Jayus Suryawan Febianto, biasa di panggil "Jayus" atau teman-teman yang lain biasa juga memanggil "Mas_Jay". Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>.
 
-<audio controls> 
+<audio controls autoplay> 
 <source src="http://jayussuryawan.github.io/Police.wav" type="audio/wav"> 
 <source src="http://jayussuryawan.github.io/Police.wav" type="audio/mpeg"> 
 </audio>
