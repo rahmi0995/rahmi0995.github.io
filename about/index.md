@@ -32,4 +32,4 @@ Nama saya adala Jayus Suryawan Febianto, biasa di panggil "Jayus" atau teman-tem
 <source src="http://jayussuryawan.github.io/Police.wav" type="audio/mpeg"> 
 </audio>
       
-<b>Happy Blogging, Terimakasih</b>
+<center><b>, Terimakasih</b></center>
