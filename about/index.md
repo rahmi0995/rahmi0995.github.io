@@ -5,7 +5,7 @@ tags: [Tentang RAHMI SEPTHIANINGRUM]
 date: 2016-05-21
 ---
     
-<center><a href="https://www.facebook.com/jaay.ddickdhasterlhy"><b>Jayus Suryawan</b></a> Information System'13, UIN Suska Riau.</center>
+<center><a href="https://www.facebook.com/jaay.ddickdhasterlhy"><b>Rahmi Septhianingrum</b></a> Information System'13, UIN Suska Riau.</center>
 
 
 {% capture images %}
