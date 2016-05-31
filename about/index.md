@@ -1,35 +1,36 @@
 ---
 layout: page
-title: About Me
-tags: [Tentang Jayus Suryawan]
-date: 2016-03-21
+title: ABOUT ME
+tags: [Tentang RAHMI SEPTHIANINGRUM]
+date: 2016-05-21
 ---
     
-<center><a href="https://www.facebook.com/jaay.ddickdhasterlhy"><b>Jayus Suryawan</b></a> Information System, UIN Suska Riau.</center>
+<center><a href="https://www.facebook.com/jaay.ddickdhasterlhy"><b>Jayus Suryawan</b></a> Information System'13, UIN Suska Riau.</center>
 
 
 {% capture images %}
-    https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/10628526_853822837989906_3428386452259792206_n.jpg?oh=1fd5a2f87c95c1cab6cbebcaa587f0da&oe=580FF106
-   https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/10653287_740378469334344_7048383521404428302_n.jpg?oh=c802d4387743c650f4756064f7803fba&oe=57D4C11E
+    http://sireg.uin-suska.ac.id/themes/metronic/assets/logo_transok.png
 {% endcapture %}
-{% include gallery images=images cols=2 %}
+{% include gallery images=images cols=1 %}
 
-## Biography
-* Nama : Jayus Suryawan Febianto
-* TTL : Indragiri Hulu, 03 Maret 1995 
-* Kelas : SIF’B 
-* Jurusan : <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
-* Fakultas : <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
-* Universitas : <a href="htpp://uin-suska.ac.id/">UIN SUSKA Riau</a>
+<center><b> ** ASSALAMU'ALAIKUM ** </b></center>
+## <b>Biography</b>
+* <b>Nama : </b>RAHMI SEPTHIANINGRUM
+* <b>NIM : </b>11353201953
+* <b>TTL : </b>Pekanbaru, 29 September 1995 
+* <b>Kelas : </b>SIF’B 2013
+* <b>Jurusan : </b><a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
+* <b>Fakultas : </b><a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
+* <b>Universitas : </b><a href="htpp://uin-suska.ac.id/">UIN SUSKA Riau</a>
 
 
-## Greatings
+## <b>Sekedar Coretan</b>
 
-Nama saya adala Jayus Suryawan Febianto, biasa di panggil "Jayus" atau teman-teman yang lain biasa juga memanggil "Mas_Jay". Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>.
+Saya adalah Rahmi Septhianingrum, seorang mahasiswi semesater 6 jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a> di  <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> 
 
 <audio controls autoplay> 
-<source src="http://jayussuryawan.github.io/Police.wav" type="audio/wav"> 
-<source src="http://jayussuryawan.github.io/Police.wav" type="audio/mpeg"> 
+<source src="http://rahmi0995.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/wav"> 
+<source src="http://rahmi0995.github.io/Edcoustic - Muhasabah Cinta.mp3 type="audio/mpeg"> 
 </audio>
       
-<center><b>Terimakasih</b></center>
+<center><b> ** WASSALLAM ** </b></center>
