@@ -14,6 +14,8 @@ date: 2016-05-21
 {% include gallery images=images cols=1 %}
 
 <center><b> ** ASSALAMU'ALAIKUM ** </b></center>
+
+
 ## <b>Biography</b>
 * <b>Nama : </b>RAHMI SEPTHIANINGRUM
 * <b>NIM : </b>11353201953
