@@ -9,6 +9,7 @@ date: 2016-06-19
 
 
 {% capture images %}
+background:         'assets/img/b1.jpg'
     http://rahmi0995.github.io/assets/img/hijab5.png
     http://rahmi0995.github.io/assets/img/hijab6.png
 {% endcapture %}
