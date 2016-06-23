@@ -16,9 +16,9 @@ comments: false
 
 Berikut ini ada sejumlah ide tampil anggun berhijab dengan nuansa dominan warna hitam. Warna hitam ternyata bisa memberi kesan yang berbeda pada penampilanmu. Now, le't steal this look! percaya diri.
 
-<center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" 
+<center><img alt="Maxi Dress Muslim Hitam Kombinasi" border="0" 
 
-src="http://cdn.klimg.com/vemale.com/g/anggun_berhijab_dengan_nuansa_warna_hitam_yang_elegan/p/fashion_nuansa_hitam-20160614-editor-002.jpg" title="" /></center>
+src="http://koleksidress.com/wp-content/uploads/2015/06/Maxi-Dress-Muslim-Hitam-Kombinasi.png" title="" /></center>
 
 Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
 
