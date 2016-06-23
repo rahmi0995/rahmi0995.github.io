@@ -1,11 +1,11 @@
 # Site
-title:              RAHMI SEPTHIANINGRUM
-bio:                'Information System 2013 - Islamic University of Sultan Syarif Kasim'
-description:        "Information System - Islamic University of Sultan Syarif Kasim"
+title:              LOVE IN HIJAB
+bio:                'Hijab 2016 - Islamic University of Sultan Syarif Kasim'
+description:        "Dunia Hijab - Islamic University of Sultan Syarif Kasim"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/rahmi.jpg'
-background:         'assets/img/Perpustakaan.jpg'
+logo:               'assets/img/logoo.png'
+background:         'assets/img/sipoke.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://rahmi0995.github.io/
