@@ -9,8 +9,8 @@ date: 2016-03-21
 
 
 {% capture images %}
-    http://rahmi0995.github.io/assets/img/hijab5.jpg
-    http://rahmi0995.github.io/assets/img/hijab6.jpg
+    http://rahmi0995.github.io/assets/img/hijab5.png
+    http://rahmi0995.github.io/assets/img/hijab6.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
