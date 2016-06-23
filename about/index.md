@@ -1,38 +1,48 @@
 ---
 layout: page
-title: ABOUT ME
-tags: [Tentang RAHMI SEPTHIANINGRUM]
-date: 2016-05-21
+title: About Us
+tags: [about, Dunia Hijab, Muslimah, Hijrah, Islamic]
+date: 2016-03-21
 ---
     
-<center><a href="https://www.facebook.com/jaay.ddickdhasterlhy"><b>Rahmi Septhianingrum</b></a> Information System'13, UIN Suska Riau.</center>
+<center><a href="https://www.facebook.com/hijabforme"><b>Dunia Hijab</b></a> - Tentang Dunia Hijab.</center>
 
 
 {% capture images %}
-    http://sireg.uin-suska.ac.id/themes/metronic/assets/logo_transok.png
+    http://rahmi0995.github.io/assets/img/hijab2.jpg
+    http://rahmi0995.github.io/assets/img/hijab3.jpg
+    http://rahmi0995.github.io/assets/img/hijab4.jpg
 {% endcapture %}
-{% include gallery images=images cols=1 %}
+{% include gallery images=images cols=2 %}
 
-<center><b> ** ASSALAMU'ALAIKUM ** </b></center>
-
-
-##<b>Biography</b><br>
-* <b>Nama : </b>RAHMI SEPTHIANINGRUM
-* <b>NIM : </b>11353201953
-* <b>TTL : </b>Pekanbaru, 29 September 1995 
-* <b>Kelas : </b>SIF’B 2013
-* <b>Jurusan : </b><a href="http://sif.uin-suska.ac.id">Sistem Informasi</a>
-* <b>Fakultas : </b><a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
-* <b>Universitas : </b><a href="htpp://uin-suska.ac.id/">UIN SUSKA Riau</a>
+## Greatings
+Dunia Hijab merupakan sebuah website yang membaerikan tutorial turorial hijab syara'i namun tidak ketinggalan zaman. Tutorial - tutorial hijab terbaru hanya anda dapat kan di sini.
+Kami juga memberikan beberapa video lansung mengenai tata pemakain hijab ala modren, simple namun tetap modis. Selamat berkreasi girls !  Kritik dan Saran anda sangat membantu kami. Terimakasih
 
 
-## <b>Sekedar Coretan</b>
+## Pembagian Tugas Kelompok
 
-Saya adalah Rahmi Septhianingrum, seorang mahasiswi semesater 6 jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a> di  <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> 
+| NAMA | JOB |
+|:--------|--------:|
+| Edmund Andriano   | Editor  |
+|----
+| Desi Fitri    | Content dan Artikel   |
+|----
+| Rahmi Septhianinggrum  | Multimedia dan Editor  |
+|----
+| Rona Rosita | Editor dan Content  |
+|----
+| Zubaidah | 11353203146   | Web Designer dan Editor  |
+|----
+|=====
+{: rules="groups"}
+
+
+## Dunia Hijab Audio
 
 <audio controls autoplay> 
-<source src="http://rahmi0995.github.io/Edcoustic - Muhasabah Cinta.mp3" type="audio/wav"> 
-<source src="http://rahmi0995.github.io/Edcoustic - Muhasabah Cinta.mp3 type="audio/mpeg"> 
+<source src="http://rahmi0995.github.io/suska cookies.ogg" type="audio/ogg"> 
+<source src="http://rahmi0995.github.io/suska cookies.ogg" type="audio/ogg"> 
 </audio>
-      
-<center><b> ** WASSALLAM ** </b></center>
+
+
