@@ -32,7 +32,7 @@ Kami juga memberikan beberapa video lansung mengenai tata pemakain hijab ala mod
 |----
 | Rona Rosita | Editor dan Content  |
 |----
-| Zubaidah  | Web Designer dan Editor  |
+| Zubaidah    | Web Designer dan Editor  |
 |----
 |=====
 {: rules="groups"}
