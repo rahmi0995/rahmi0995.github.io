@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tutorial Hijab Segi Empat Modern"
+title:  "Tutorial Hijab Pasmina Segi Empat Modern"
 date:   2016-06-21
-excerpt: "Salah satu referensi yang paling Banyak di cari oleh wanita berhijab."
+excerpt: "Pemakaian hijab modern menggunakan kain segi empat membutuhkan."
 tag:
 - Dunia Hijab
 - Syar'i
@@ -16,7 +16,7 @@ comments: false
 
 <center><img alt="tutorial hijab segi empat simple dan modis" border="0" src="http://busanamuslimodis.com/wp-content/uploads/2015/05/Tutorial-Hijab-Segi-Empat-Modern.png" title="" /></center>
 
-* Untuk lebih jelas, Berikut video Tutorial Hijab Segi Empat Modern
+* Untuk lebih jelas, Berikut video Tutorial Hijab Pasmina Segi Empat Modern
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EM59obsU6l0" frameborder="0" allowfullscreen></iframe>
 
 Penampilan merupkan sebagian tingkat percaya diri. Happy Hijab Girls !
