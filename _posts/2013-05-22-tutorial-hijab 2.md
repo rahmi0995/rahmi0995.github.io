@@ -12,7 +12,7 @@ tag:
 comments: false
 ---
 
-<b>Tutorial Pemakaian Hijab</b> - pemakaian hijab modern menggunakan kain segi empat membutuhkan keterampilan sehingga menghasilkan bentuk model kerudung yang model. berikut ini tutorial hijab segi empat simple yang mudah di ikuti
+<b>Tutorial Pemakaian Hijab</b> - Pemakaian hijab modern menggunakan kain segi empat membutuhkan keterampilan sehingga menghasilkan bentuk model kerudung yang model. berikut ini tutorial hijab segi empat simple yang mudah di ikuti
 
 <center><img alt="tutorial hijab segi empat simple dan modis" border="0" src="http://busanamuslimodis.com/wp-content/uploads/2015/05/Tutorial-Hijab-Segi-Empat-Modern.png" title="" /></center>
 
