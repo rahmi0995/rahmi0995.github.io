@@ -1,7 +1,7 @@
 # Site
 title:              LOVE IN HIJAB
-bio:                'Hijab 2016 - Islamic University of Sultan Syarif Kasim'
-description:        "Dunia Hijab - Islamic University of Sultan Syarif Kasim"
+bio:                'Hijab 2016 - Inspirasi Menuju Hijrah'
+description:        "Dunia Hijab - Inspirasi Menuju Hijrah"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logoo.png'
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            #
-facebook:           #
+twitter:            duniahijab
+facebook:           duniahijab
 github:             rahmi0995
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:         # 
+instagram:         duniahijab
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
