@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Tentang Website
 tags: [about, Dunia Hijab, Muslimah, Hijrah, Islamic]
 date: 2016-03-21
 ---
