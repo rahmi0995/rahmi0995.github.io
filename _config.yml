@@ -5,7 +5,7 @@ description:        "Dunia Hijab - Inspirasi Menuju Hijrah"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logoo.png'
-background:         'assets/img/sipoke.jpg'
+background:         'assets/img/b1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://rahmi0995.github.io/
