@@ -9,9 +9,8 @@ date: 2016-03-21
 
 
 {% capture images %}
-    http://rahmi0995.github.io/assets/img/hijab2.jpg
-    http://rahmi0995.github.io/assets/img/hijab3.jpg
-    http://rahmi0995.github.io/assets/img/hijab4.jpg
+    http://rahmi0995.github.io/assets/img/hijab5.jpg
+    http://rahmi0995.github.io/assets/img/hijab6.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
@@ -26,13 +25,13 @@ Kami juga memberikan beberapa video lansung mengenai tata pemakain hijab ala mod
 |:--------|--------:|
 | Edmund Andriano   | Editor  |
 |----
-| Desi Fitri    | Content dan Artikel   |
+| Desi Fitri    | Content   |
 |----
-| Rahmi Septhianinggrum  | Multimedia dan Editor  |
+| Rahmi Septhianinggrum  | Multimedia, Editor dan Artikel   |
 |----
 | Rona Rosita | Editor dan Content  |
 |----
-| Zubaidah    | Web Designer dan Editor  |
+| Zubaidah    | Web Designer, Editor dan Artikel  |
 |----
 |=====
 {: rules="groups"}
