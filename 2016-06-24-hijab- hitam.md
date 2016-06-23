@@ -20,6 +20,5 @@ Berikut ini ada sejumlah ide tampil anggun berhijab dengan nuansa dominan warna 
 
 src="http://cdn.klimg.com/vemale.com/g/anggun_berhijab_dengan_nuansa_warna_hitam_yang_elegan/p/fashion_nuansa_hitam-20160614-editor-002.jpg" title="" /></center>
 
-
 Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
 
