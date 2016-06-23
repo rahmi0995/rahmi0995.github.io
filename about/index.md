@@ -15,7 +15,7 @@ date: 2016-03-21
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-## Greatings
+## Description
 Dunia Hijab merupakan sebuah website yang membaerikan tutorial turorial hijab syara'i namun tidak ketinggalan zaman. Tutorial - tutorial hijab terbaru hanya anda dapat kan di sini.
 Kami juga memberikan beberapa video lansung mengenai tata pemakain hijab ala modren, simple namun tetap modis. Selamat berkreasi girls !  Kritik dan Saran anda sangat membantu kami. Terimakasih
 
