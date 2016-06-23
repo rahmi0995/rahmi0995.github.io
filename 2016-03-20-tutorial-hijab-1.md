@@ -16,6 +16,6 @@ comments: false
 
 <center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" src=https://4.bp.blogspot.com/-oweuEDhafnE/VtzdCTQfERI/AAAAAAAABUA/mv096_tBgWE/s1600/Tutorial-Hijab-Segi-Empat-3.jpg title="" /></center>
 
-<iframe width="560" height="315" src=https://https://www.youtube.com/watch?v=sXoIc0FOb1Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://https://www.youtube.com/watch?v=sXoIc0FOb1Q" frameborder="0" allowfullscreen></iframe>
 
 Penampilan merupkan sebagian tingkat percaya diri. Happy Hijab Girls !
