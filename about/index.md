@@ -2,7 +2,7 @@
 layout: page
 title: Tentang Website
 tags: [about, Dunia Hijab, Muslimah, Hijrah, Islamic]
-date: 2016-03-21
+date: 2016-06-19
 ---
     
 <center><a href="https://www.facebook.com/hijabforme"><b>Dunia Hijab</b></a> - Tentang Dunia Hijab.</center>
