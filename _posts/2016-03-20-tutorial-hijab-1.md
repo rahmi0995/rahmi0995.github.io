@@ -15,7 +15,7 @@ comments: false
 <b>Tutorial Pemakaian Hijab</b> - Pemakaian hijab yang modis dan simple dapat mempercantik penampilan dan menambah percaya diri.
 <center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" src="https://4.bp.blogspot.com/-oweuEDhafnE/VtzdCTQfERI/AAAAAAAABUA/mv096_tBgWE/s1600/Tutorial-Hijab-Segi-Empat-3.jpg" title="" /></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sXoIc0FOb1Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXoIc0FOb1Q" frameborder="0" allowfullscreen></iframe>
 
 
 Penampilan merupkan sebagian tingkat percaya diri. Happy Hijab Girls !
