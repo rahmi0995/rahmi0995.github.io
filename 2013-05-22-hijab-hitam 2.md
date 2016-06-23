@@ -18,7 +18,7 @@ Berikut ini ada sejumlah ide tampil anggun berhijab dengan nuansa dominan warna 
 
 <center><img alt="Maxi Dress Muslim Hitam Kombinasi" border="0" 
 
-src="http://koleksidress.com/wp-content/uploads/2015/06/Maxi-Dress-Muslim-Hitam-Kombinasi.png" title="" /></center>
+src="http://3.bp.blogspot.com/-3koxrOjl9Cs/VUzjl1-frEI/AAAAAAAAAv8/1KZNNWZfCGA/s1600/Hijab%2BHitam%2BPutih%2B%282%29.jpg" title="" /></center>
 
 Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
 
