@@ -2,7 +2,7 @@
 layout: post
 title:  "Anggun Berhijab dengan Nuansa Warna Hitam yang Elegan"
 date:   2016-06-21
-excerpt: "Salah satu referensi yang paling Banyak di cari oleh wanita berhijab."
+excerpt: "Warna hitam bisa memberi kesan elegan dan cantik."
 tag:
 - Dunia Hijab
 - Syar'i
@@ -16,7 +16,9 @@ comments: false
 
 Berikut ini ada sejumlah ide tampil anggun berhijab dengan nuansa dominan warna hitam. Warna hitam ternyata bisa memberi kesan yang berbeda pada penampilanmu. Now, le't steal this look! percaya diri.
 
-<center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" src=http://cdn.klimg.com/vemale.com/g/anggun_berhijab_dengan_nuansa_warna_hitam_yang_elegan/p/fashion_nuansa_hitam-20160614-editor-002.jpg title="" /></center>
+<center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" 
+
+src="http://cdn.klimg.com/vemale.com/g/anggun_berhijab_dengan_nuansa_warna_hitam_yang_elegan/p/fashion_nuansa_hitam-20160614-editor-002.jpg" title="" /></center>
 
 
 Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
