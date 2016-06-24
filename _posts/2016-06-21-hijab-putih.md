@@ -17,7 +17,7 @@ comments: false
 Tapi ada banyak cara untuk bisa tampil chic dengan nuansa warna putih. Mulai dari memadu padankannya dengan kardigan, ikat pinggang, dan aneka aksesoris. Berikut ini sejumlah ide seru yang bisa kamu adaptasi untuk tampil cantik dengan nuansa warna putih.
 
 <center><img alt="langkah langkah praktis tutorial hijab simple dan modis" border="0" 
-src="http://cdn.klimg.com/vemale.com/g/cantik_berhijab_dengan_nuansa_putih_yang_chic/p/fashion_nuansa_putih-20160614-editor-002."jpg title="" /></center>
+src="http://cdn.klimg.com/vemale.com/g/cantik_berhijab_dengan_nuansa_putih_yang_chic/p/fashion_nuansa_putih-20160614-editor-002.jpg" title="" /></center>
 
 
 Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
