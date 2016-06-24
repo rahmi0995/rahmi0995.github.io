@@ -45,4 +45,9 @@ Kami juga memberikan beberapa video lansung mengenai tata pemakain hijab ala mod
 <source src="http://rahmi0995.github.io/dunia_hijab.ogg" type="audio/ogg"> 
 </audio>
 
+<audio controls autoplay> 
+<source src="http://rahmi0995.github.io/audio_hijab.ogg" type="audio/ogg"> 
+<source src="http://rahmi0995.github.io/audio_hijab.ogg" type="audio/ogg"> 
+</audio>
+
 
