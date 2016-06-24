@@ -17,12 +17,13 @@ comments: false
 * Untuk lebih jelas, Berikut video tutorial pemakaian hijab Modern dan Modis 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXoIc0FOb1Q" frameborder="0" allowfullscreen></iframe>
 
-
-Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
-
 ## Dunia Hijab Audio
 
 <audio controls autoplay> 
 <source src="http://rahmi0995.github.io/audio_hijab.ogg" type="audio/ogg"> 
 <source src="http://rahmi0995.github.io/audio_hijab.ogg" type="audio/ogg"> 
 </audio>
+
+Penampilan merupakan sebagian tingkat percaya diri. Happy Hijab Girls !
+
+
